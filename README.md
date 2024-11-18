@@ -76,11 +76,12 @@ Here are some ideas for potential updates:
 
 1. **Dark Mode View**:  
    *A beautiful, responsive interface with smooth interactions.*  
-   ![Dark Mode Screenshot](#)  
+   ![image](https://github.com/user-attachments/assets/4cf2fa68-fe55-4033-9cca-9ed3a4868871)
+
+ 
 
 2. **Task Management in Action**:  
-   *Mark, edit, or delete tasks seamlessly.*  
-   ![Task Management Screenshot](#)  
+   ![image](https://github.com/user-attachments/assets/bec69f10-25f1-4b3b-b1e8-c78cb4cc7bc8)
 
 ---
 
