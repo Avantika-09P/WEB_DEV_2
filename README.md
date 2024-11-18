@@ -76,12 +76,14 @@ Here are some ideas for potential updates:
 
 1. **Dark Mode View**:  
    *A beautiful, responsive interface with smooth interactions.*  
-   ![image](https://github.com/user-attachments/assets/4cf2fa68-fe55-4033-9cca-9ed3a4868871)
+   ![image](https://github.com/user-attachments/assets/1230265c-a4e5-4fd9-b3f6-a91b4d750631)
+
 
  
 
 2. **Task Management in Action**:  
-   ![image](https://github.com/user-attachments/assets/bec69f10-25f1-4b3b-b1e8-c78cb4cc7bc8)
+ ![image](https://github.com/user-attachments/assets/8ee4f8f8-32ad-4c63-a0ef-731be08a8729)
+
 
 ---
 
