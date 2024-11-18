@@ -53,7 +53,8 @@ A simple, sleek, and feature-rich **To-Do List** application designed to help yo
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/<your-username>/to-do-list.git
+   git clone https://github.com/Avantika-09P/WEB_DEV_2.git
+
    ```  
 
 2. Open `index.html` in any browser to run the application locally.  
